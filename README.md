@@ -57,15 +57,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|1200:12                  | 24:1204                  |
+|1201:34                  | 68:1205                  |
+|1202:12                  | 00:1206                  |
+|1203:34                  | C4:1207                  |
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+![WhatsApp Image 2025-08-24 at 20 42 48_ca04df0c](https://github.com/user-attachments/assets/2dca94a7-67b1-4791-8a60-8c7bcfd6c96b)
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="640" height="480" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/f4ff21b1-8ebd-472d-b973-8abaf97fa5f4" />
+
+
 
 ## 2. SUBTRACTION
 
@@ -83,6 +91,26 @@ END
 
 
 #### Program
+```asm
+CODE SEGMENT
+ASSUME CS: CODE, DS: CODE
+ORG 1000H
+MOV SI,2000H
+MOV CL,00H
+MOV AX,[SI]
+MOV BX,[SI+02H]
+SUB AX,BX
+JNC L1
+INC CL
+L1:
+MOV [SI+04H],AX
+MOV [SI+06H],CL
+MOV AH,4CH
+INT 21H
+CODE ENDS
+END
+```
+
 
 
 
@@ -90,16 +118,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|1200:12                  | 00:1204                  |
+|1201:34                  | 00:1205                  |
+|1202:12                  | 83:1206                  |
+|1203:34                  | C4:1207                  |
+
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+![WhatsApp Image 2025-08-24 at 20 40 23_7accbcaa](https://github.com/user-attachments/assets/c74711a6-f1ce-4178-abfb-6f1b07687ae5)
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="640" height="480" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/9a8ab4e7-f833-485c-a101-2be2e81ed126" />
 
 ## 3. MULTIPLICATION
 
@@ -139,15 +174,21 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|1200:12                  | 44:1204                  |
+|1201:34                  | 51:1205                  |
+|1202:12                  | 97:1206                  |
+|1203:34                  | 0A:1207                  |
+                         
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+![WhatsApp Image 2025-08-24 at 20 41 53_242fd617](https://github.com/user-attachments/assets/5bf4af69-795a-4c2e-9621-9e292a4b60e7)
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="640" height="480" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/a4671797-9ce9-4db8-8e15-9e4a45efd59b" />
 
 ## 4. DIVISION
 
@@ -184,17 +225,23 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|1200:12                  | 01:1204                  |
+|1201:34                  | 00:1205                  |
+|1202:12                  | 00:1206                  |
+|1203:34                  | 00:1207                  |
+                                                            
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+![WhatsApp Image 2025-08-24 at 20 44 55_cade4027](https://github.com/user-attachments/assets/dfc96d38-c190-41fd-afb9-4f1eea1b91e8)
+
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="640" height="480" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/8777aed0-276b-40ae-80ce-e12c23df7791" />
 
 
 ## RESULT
 
-Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
+Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written  and executed using MASM.
