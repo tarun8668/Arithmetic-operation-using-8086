@@ -133,7 +133,8 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="640" height="480" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/6bf37fc7-9af7-4b37-893d-4e4f23f31440" />
+<img width="636" height="427" alt="image" src="https://github.com/user-attachments/assets/77512551-29b2-48f3-9cb7-c25813665f8c" />
+
 
 
 ## 3. MULTIPLICATION
@@ -239,7 +240,8 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="640" height="480" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/e8065661-fe83-4910-850b-6d55b6212d30" />
+
+
 
 
 ## RESULT
