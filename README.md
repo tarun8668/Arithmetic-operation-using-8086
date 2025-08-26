@@ -57,10 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|     1200 : 12           |      1204 : 24           |
-1201 : 34  |  1205 : 68
-1202 : 12   | 1206 : 00
-1203 : 34    |1207 : C4
+|     2000 : 12           |      2004 : 68           |
+2001 : 34  |  2005 : 24
+2002 : 12   | 1206 : 00
+2003 : 34    |1207 : C4
 
 #### Manual Calculations
 
@@ -71,7 +71,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="640" height="480" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/01db1f8c-bc8e-49d6-b0db-17612b7251f3" />
+<img width="641" height="423" alt="image" src="https://github.com/user-attachments/assets/1665c5f2-6c38-42f8-9bfa-79156a50fa4b" />
+
 
 
 ## 2. SUBTRACTION
