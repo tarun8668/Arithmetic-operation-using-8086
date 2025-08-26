@@ -119,14 +119,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|               1200 : 12          |      1204 : 00                    |
-1201 : 34 | 1205 : 00
-1202 : 12 | 1206 : 00
-1203 : 34 | 1207 : C4
+|               2000 : 12          |      2004 : 00                    |
+2001 : 34 | 2005 : 00
+2002 : 12 | 2006 : 00
+2003 : 34 | 2007 : C4
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-24 at 13 57 26_3c6a33e4](https://github.com/user-attachments/assets/d189d423-0c93-4038-be7e-09cea2e4ac8b)
+![WhatsApp Image 2025-08-26 at 11 09 03_87498700](https://github.com/user-attachments/assets/360f2f8d-f6e0-47c9-bf96-bb9a958233ad)
+
+
 
 
 ---
