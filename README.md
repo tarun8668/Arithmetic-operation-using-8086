@@ -185,14 +185,15 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-24 at 13 57 26_6221e6e0](https://github.com/user-attachments/assets/5c3e7e5f-ee23-4d78-b16c-61fcf1645cd8)
+
 
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="640" height="480" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/39f524fb-0dfd-4c88-980f-5c40a4e25369" />
+<img width="643" height="392" alt="image" src="https://github.com/user-attachments/assets/a42514d2-9f4e-43f1-8bcb-86c419407e9c" />
+
 
 
 ## 4. DIVISION
