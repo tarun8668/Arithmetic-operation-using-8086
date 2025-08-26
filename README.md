@@ -239,7 +239,9 @@ END
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-08-24 at 13 57 27_53279612](https://github.com/user-attachments/assets/ad1cc3b4-5c20-4dab-981e-d30867b89c53)
+![WhatsApp Image 2025-08-26 at 11 31 14_d4d92edf](https://github.com/user-attachments/assets/e91db3d5-5204-43e3-8a2c-2b37c73f978b)
+
+
 
 
 ---
