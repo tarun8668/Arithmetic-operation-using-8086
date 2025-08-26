@@ -185,6 +185,7 @@ END
 
 #### Manual Calculations
 
+![WhatsApp Image 2025-08-26 at 11 26 07_e75eaa1a](https://github.com/user-attachments/assets/0920ed19-94fd-42c2-b8e0-fd8e67bf4aa3)
 
 
 
@@ -231,10 +232,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200 : 12                  |              1204 : 01            |
-1201 : 34 | 1205 : 00
-1202 : 12 | 1206 : 00
-1203 : 34 | 1207 : 00
+|       2000 : 34                  |              2004 : 01            |
+2001 : 12 | 2005 : 00
+2002 : 34 | 2006 : 00
+2003 : 12 | 2007 : 00
 
 #### Manual Calculations
 
@@ -244,7 +245,7 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-
+<img width="637" height="402" alt="image" src="https://github.com/user-attachments/assets/794bd0d4-4d79-4465-89e6-3439795d4e7f" />
 
 
 
