@@ -71,6 +71,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
+<img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/32f20509-f45e-41de-8449-2b2dd58f0e32" />
+
 <img width="621" height="422" alt="image" src="https://github.com/user-attachments/assets/0fb28922-6203-4bad-9e2b-e52205481778" />
 
 
@@ -192,9 +194,10 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
- <img width="552" height="328" alt="Screenshot 2025-08-30 093434" src="https://github.com/user-attachments/assets/785b5129-1bf6-4b6c-a461-ef885a697f9c" />
+<img width="637" height="426" alt="image" src="https://github.com/user-attachments/assets/c7b11cf0-099e-4e4d-9d64-c12f41e6141d" />
 
- <img width="660" height="411" alt="Screenshot 2025-08-30 093647" src="https://github.com/user-attachments/assets/4c691dfa-a0ac-4df4-90ba-c68c4620f470" />
+
+<img width="633" height="431" alt="image" src="https://github.com/user-attachments/assets/e172932b-9925-4783-831f-db85ae44972d" />
 
 
 ## 4. DIVISION
@@ -245,9 +248,10 @@ END
 ---<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/024d6a5c-9956-4ccd-8751-494f3c7ea6dc" />
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="635" height="338" alt="Screenshot 2025-08-30 093945" src="https://github.com/user-attachments/assets/9db0ac03-8acd-4d11-af7f-b0e01fe43c3f" />
+<img width="632" height="402" alt="image" src="https://github.com/user-attachments/assets/ac6f1295-504d-4963-9c25-20ffb550aeb7" />
 
-<img width="655" height="411" alt="Screenshot 2025-08-30 094212" src="https://github.com/user-attachments/assets/e620def0-02e9-463d-872f-ced8e1d532cf" />
+<img width="633" height="428" alt="image" src="https://github.com/user-attachments/assets/a843411d-c272-4138-b7fd-e6633d0d0fc4" />
+
 
 
 ## RESULT
