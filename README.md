@@ -71,9 +71,11 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="639" height="398" alt="Screenshot 2025-08-30 092240" src="https://github.com/user-attachments/assets/225f1df6-69bb-46e6-b780-13f857cb5475" />
+<img width="621" height="422" alt="image" src="https://github.com/user-attachments/assets/0fb28922-6203-4bad-9e2b-e52205481778" />
 
-<img width="658" height="413" alt="Screenshot 2025-08-30 092600" src="https://github.com/user-attachments/assets/62c14c68-8ab6-477d-99fc-06c7a297eddf" />
+
+
+
 
 ## 2. SUBTRACTION
 
@@ -91,7 +93,25 @@ END
 
 
 #### Program
-
+```
+CODE SEGMENT
+ASSUME CS: CODE, DS: CODE
+ORG 1000H
+MOV SI,2000H
+MOV CL,O0H
+MOV AX, [SI]
+MOV BX, [SI+02H]
+SUB AX, BX
+JNC L1
+INC CL
+L1:
+MOV [SI+04H],AX
+MOV [SI+06H],CL
+MOV AH,4CH
+INT 21H
+CODE ENDS
+END
+```
 
 
 #### Output Table
@@ -113,9 +133,11 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="651" height="385" alt="Screenshot 2025-08-30 093222" src="https://github.com/user-attachments/assets/c70762a8-40e7-4c56-8eb6-53031e6c5be5" />
+<img width="632" height="436" alt="image" src="https://github.com/user-attachments/assets/21899f47-da77-417f-962d-30f756e0b76e" />
 
-<img width="635" height="410" alt="Screenshot 2025-08-30 093121" src="https://github.com/user-attachments/assets/d86e6ae2-92a5-4bf4-8459-b6a8e2cdf225" />
+
+<img width="890" height="427" alt="image" src="https://github.com/user-attachments/assets/c1b22fe8-8a65-4001-a217-5db87a0d5c43" />
+
 
 
 
